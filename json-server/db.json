@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "52bba9ae-be81-49df-b8ed-b6a4a5502834",
+      "text": "asdasdlkjlkjkhjk",
+      "completed": false,
+      "addDate": "5/28/2024, 10:36:01 PM",
+      "updateDate": "5/29/2024, 4:55:49 PM"
+    },
+    {
+      "id": "c76069b8-60ff-4bdf-b340-198c2bd62041",
+      "text": "dsadssad",
+      "completed": false,
+      "addDate": "5/29/2024, 12:53:56 AM"
+    },
+    {
+      "id": "1f7026b6-1295-4e7b-859c-9e9e49624a41",
+      "text": "yemek ye2222",
+      "completed": false,
+      "addDate": "13.09.2024 15:29:45",
+      "updateDate": "13.09.2024 15:29:51"
+    }
+  ]
+}
